@@ -25,13 +25,12 @@ github organization to see other examples
 [snyk-image]: https://snyk.io/test/github/magic/example/badge.svg
 [snyk-url]: https://snyk.io/test/github/magic/example
 
-
 ### installation
 
 #### requirements
 
-* be in a directory you want to work in
-* have nodejs > 14.2.0 installed.
+- be in a directory you want to work in
+- have nodejs > 14.2.0 installed.
 
 ```
 // clone this repository

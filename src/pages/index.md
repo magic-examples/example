@@ -13,8 +13,8 @@ index page content
 
 can stretch multiple lines
 
-* and contain
-* lists of content
+- and contain
+- lists of content
 
 <Count state></Count>
 
@@ -23,4 +23,3 @@ can stretch multiple lines
 the variable determining the color is local to this page.
 
 <Outside state></Outside>
-
